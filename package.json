@@ -1,0 +1,12 @@
+{
+  "name": "internship-test2-master",
+  "version": "1.0.0",
+  "description": "Problem statement is defined in the file \"Bungee Coding Round.docx\". Please refer to this file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
